@@ -1,3 +1,3 @@
 function hello() {
-  window.alert("バージョン3です");
+  window.alert("バージョン4です");
 }
